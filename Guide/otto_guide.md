@@ -13,6 +13,6 @@ wire
 
 # Procedure:
 ## Step 1:
-Follow the [original PDF](.\Original\OttoDIY+_InstructionsManual_V05.pdf) to put together the Body of OttoBot. 
+Follow the [original PDF](./Original/OttoDIY+_InstructionsManual_V05.pdf) to put together the Body of OttoBot. 
 
 
